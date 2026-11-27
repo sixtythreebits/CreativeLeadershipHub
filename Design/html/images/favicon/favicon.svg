@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1" xmlns:xlink="http://www.w3.org/1999/xlink" id="Layer_1" x="0px" y="0px" viewBox="0 0 60 60" style="enable-background:new 0 0 60 60;" xml:space="preserve" width="60" height="60"><metadata><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/"><rdf:Description><dc:creator>RealFaviconGenerator</dc:creator><dc:source>https://realfavicongenerator.net</dc:source></rdf:Description></rdf:RDF></metadata><style type="text/css">
+	.st0{clip-path:url(#SVGID_00000106861572925222120000000005760892884256705422_);}
+	.st1{fill:#E54453;}
+	.st2{fill:#F6B129;}
+	.st3{fill:#47ACA6;}
+</style><g id="Group_6">
+	<g>
+		<defs>
+			<rect id="SVGID_1_" x="1.8688" y="11.1492" width="56.2624" height="37.7016"></rect>
+		</defs>
+		<clipPath id="SVGID_00000042702430261336833640000015171335258075138963_">
+			<use xlink:href="#SVGID_1_" style="overflow:visible;"></use>
+		</clipPath>
+		<g id="Logo" style="clip-path:url(#SVGID_00000042702430261336833640000015171335258075138963_);">
+			<path id="Vector" class="st1" d="M25.2908,15.895l-4.7081-4.7458L1.8688,30.0014l18.7139,18.8494l4.7081-4.7429L11.2879,30.0014
+				L25.2908,15.895z"></path>
+			<path id="Vector_2" class="st2" d="M20.7079,30.0014L34.7091,15.895l-4.7104-4.7458L11.2871,30.0014l18.7116,18.8494
+				l4.7104-4.7429L20.7079,30.0014z"></path>
+			<path id="Vector_3" class="st3" d="M39.4183,11.1495L20.7054,30l18.7111,18.8513l18.7128-18.8505L39.4183,11.1495z"></path>
+		</g>
+	</g>
+</g></svg>

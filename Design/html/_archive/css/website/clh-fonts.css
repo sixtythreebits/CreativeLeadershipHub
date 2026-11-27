@@ -1,0 +1,7 @@
+/* CLH brand fonts (shared by home-v1/v2/v3). Files live in fonts/clh/. */
+@font-face{font-family:'Loos Extended';src:url('../../fonts/clh/LoosExtended-Bold.otf') format('opentype');font-weight:700;font-style:normal;font-display:swap}
+@font-face{font-family:'Loos Extended';src:url('../../fonts/clh/LoosExtended-Black.otf') format('opentype');font-weight:900;font-style:normal;font-display:swap}
+@font-face{font-family:'Loos ExtraWide';src:url('../../fonts/clh/LoosExtraWide-Regular.otf') format('opentype');font-weight:400;font-style:normal;font-display:swap}
+@font-face{font-family:'Loos ExtraWide';src:url('../../fonts/clh/LoosExtraWide-Medium.otf') format('opentype');font-weight:500;font-style:normal;font-display:swap}
+@font-face{font-family:'Helvetica Neue LT GEO';src:url('../../fonts/clh/HelveticaNeueLTGEO-55Roman.ttf') format('truetype');font-weight:400;font-style:normal;font-display:swap}
+@font-face{font-family:'Helvetica Neue LT GEO';src:url('../../fonts/clh/HelveticaNeueLTGEO-75Bold.ttf') format('truetype');font-weight:700;font-style:normal;font-display:swap}

@@ -1,0 +1,73 @@
+/* Helvetica Neue LT GEO */
+@font-face {
+    font-family: 'Helvetica Neue LT GEO';
+    src: url('../../fonts/2026/Font Files/HelveticaNeueLTGEO-Light.woff2') format('woff2');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Helvetica Neue LT GEO';
+    src: url('../../fonts/2026/Font Files/HelveticaNeueLTGEO-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Helvetica Neue LT GEO';
+    src: url('../../fonts/2026/Font Files/HelveticaNeueLTGEO-Medium.woff2') format('woff2');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Helvetica Neue LT GEO';
+    src: url('../../fonts/2026/Font Files/HelveticaNeueLTGEO-Bold.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Helvetica Neue LT GEO';
+    src: url('../../fonts/2026/Font Files/HelveticaNeueLTGEO-UltraBold.woff2') format('woff2');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Helvetica Neue LT GEO CAPS */
+@font-face {
+    font-family: 'Helvetica Neue LT GEO CAPS';
+    src: url('../../fonts/2026/Font Files CAPS/HelveticaNeueLTGEOCAPS-Light.woff2') format('woff2');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Helvetica Neue LT GEO CAPS';
+    src: url('../../fonts/2026/Font Files CAPS/HelveticaNeueLTGEOCAPS-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Helvetica Neue LT GEO CAPS';
+    src: url('../../fonts/2026/Font Files CAPS/HelveticaNeueLTGEOCAPS-Medium.woff2') format('woff2');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Helvetica Neue LT GEO CAPS';
+    src: url('../../fonts/2026/Font Files CAPS/HelveticaNeueLTGEOCAPS-Bold.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Helvetica Neue LT GEO CAPS';
+    src: url('../../fonts/2026/Font Files CAPS/HelveticaNeueLTGEOCAPS-UltraBold.woff2') format('woff2');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}

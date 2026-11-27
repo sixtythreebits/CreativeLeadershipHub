@@ -1,0 +1,61 @@
+/* Helvetica Neue LT GEO */
+@font-face {
+    font-family: 'Helvetica Neue LT GEO';
+    src: url('../../fonts/2026/Font Files/HelveticaNeueLTGEO-Regular.woff2') format('woff2'),
+    url('../../fonts/2026/Font Files/HelveticaNeueLTGEO-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Helvetica Neue LT GEO';
+    src: url('../../fonts/2026/Font Files/HelveticaNeueLTGEO-Medium.woff2') format('woff2'),
+    url('../../fonts/2026/Font Files/HelveticaNeueLTGEO-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Helvetica Neue LT GEO';
+    src: url('../../fonts/2026/Font Files/HelveticaNeueLTGEO-Bold.woff2') format('woff2'),
+    url('../../fonts/2026/Font Files/HelveticaNeueLTGEO-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Loos Extended */
+@font-face {
+    font-family: 'Loos Extended';
+    src: url('../../fonts/loos-extended/bold.woff2') format('woff2'),
+    url('../../fonts/loos-extended/bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Loos Extended';
+    src: url('../../fonts/loos-extended/black.woff2') format('woff2'),
+    url('../../fonts/loos-extended/black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Loos ExtraWide */
+@font-face {
+    font-family: 'Loos ExtraWide';
+    src: url('../../fonts/loos-extrawide/regular.woff2') format('woff2'),
+    url('../../fonts/loos-extrawide/regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Loos ExtraWide';
+    src: url('../../fonts/loos-extrawide/medium.woff2') format('woff2'),
+    url('../../fonts/loos-extrawide/medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
